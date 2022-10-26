@@ -1,0 +1,36 @@
+Analisando a expressão: '2^3+1'
+Expressão pós-fixa: 2 3 ^ 1 + 
+9
+Analisando a expressão: '2^(3+1)'
+Expressão pós-fixa: 2 3 1 + ^ 
+16
+Analisando a expressão: '1/2'
+Expressão pós-fixa: 1 2 / 
+0
+Analisando a expressão: '1.0/2'
+Expressão pós-fixa: 1.000000 2 / 
+0.500000
+Analisando a expressão: '_1'
+Expressão pós-fixa: 1 _ 
+-1
+Analisando a expressão: '3^2^4'
+Expressão pós-fixa: 3 2 4 ^ ^ 
+43046721
+Analisando a expressão: '2*_3^4-2'
+Expressão pós-fixa: 2 3 4 ^ _ * 2 - 
+-164
+Analisando a expressão: '2*(_3)^4-2'
+Expressão pós-fixa: 2 3 _ 4 ^ * 2 - 
+160
+Analisando a expressão: '_3^2'
+Expressão pós-fixa: 3 2 ^ _ 
+-9
+Analisando a expressão: '_3^3'
+Expressão pós-fixa: 3 3 ^ _ 
+-27
+Analisando a expressão: '(_3)^2'
+Expressão pós-fixa: 3 _ 2 ^ 
+9
+Analisando a expressão: '(_3)^3'
+Expressão pós-fixa: 3 _ 3 ^ 
+-27

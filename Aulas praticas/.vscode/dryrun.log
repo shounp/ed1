@@ -1,0 +1,6 @@
+Make.exe --dry-run --always-make --keep-going --print-directory
+Make.exe: Entering directory 'c:/Users/gabri/Desktop/ufes/3 periodo/ED1/ED1'
+Make.exe: Leaving directory 'c:/Users/gabri/Desktop/ufes/3 periodo/ED1/ED1'
+ 
+Make.exe: *** No targets specified and no makefile found.  Stop.
+
