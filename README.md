@@ -27,18 +27,18 @@ Este repositório tem como objetivo armazenar todo os códigos praticados na mat
 
 ## Neste repositório irá encontrar
 
-[- Ponteiros](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula0)
-[- Alocação de Memória](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula1)
-[- Recursividade](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula3)
-[- TAD's](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula4)
-[- Listas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula6)
-[- Listas Simplemente Encadeadas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula7)
-[- Listas Duplamente Encadeadas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula8)
-[- Listas Genéricas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula9)
-[- Pilhas e Filas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula10)
+ 1. [Ponteiros](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula0)
+ 2. [Alocação de Memória](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula1)
+ 3. [Recursividade](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula3)
+ 4. [TAD's](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula4)
+ 5. [Listas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula6)
+ 6. [Listas Simplemente Encadeadas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula7)
+ 7. [Listas Duplamente Encadeadas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula8)
+ 8. [Listas Genéricas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula9)
+ 9. [Pilhas e Filas](https://github.com/shounp/ed1/tree/main/Aulas%20praticas/aula10)
 
 ### Bem como trabalhos:
 
-[- Filtros para imagens](https://github.com/shounp/ed1/tree/main/EP1) 
-[- Calculadora de científica](https://github.com/shounp/ed1/tree/main/EP2)
-[- Verificador Ortográfico](https://github.com/shounp/ed1/tree/main/EP3)
+ - [Filtros para imagens](https://github.com/shounp/ed1/tree/main/EP1) 
+ - [Calculadora de científica](https://github.com/shounp/ed1/tree/main/EP2)
+ - [Verificador Ortográfico](https://github.com/shounp/ed1/tree/main/EP3)
